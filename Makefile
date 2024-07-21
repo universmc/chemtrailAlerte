@@ -40,11 +40,24 @@ dev:
 all: $(MAGIC_TARGETS)
 
 
-init: gantt phase1 phase2 phase3 phase4 phase5 phase6 phase7 phase8
+help:
+	@echo "Les commandes disponibles sont :"
+	@echo "    install      Installer les dépendances Node.js"
+	@echo "    start        Démarrer le serveur de développement"
+	@echo "    test         Lancer les tests unitaires"
+	@echo "    lint         Vérifier la qualité du code"
+	@echo "    build        Générer le projet"
+	@echo "    deploy       Déployer le projet en production"
+
+update:
+	@echo "✨ Mise en état du dossier de l'application✨"
+	@git add .
+	@git commit -m "test"
+	@git push
+
+build : phase1 phase2 phase3 phase4 phase5 phase6 phase7 phase8
 # Magic COMPILER groq quantum
-gantt:
-	@echo "initialisation de l'instance"
-	@git clone auto
+
 
 phase1:
 	@echo "phase de conception"
