@@ -1,36 +1,36 @@
 [       
     {
-    "titre": "Fullstack Development",
+    "titre": "ChemtrailAlert app Development",
     "sousSections": [
         {
             "sousTitre": "Introduction",
-            "contenu": "Présentation de l'agent IA le développement WEV."
+            "contenu": "Présentation de l'état d'ugence climatique."
         },
         {
-            "sousTitre": "FullStack",
+            "sousTitre": "phase1",
             "contenuMarkdown": "src/md/intro.md"
         }
     ]
     },
     {
-        "titre": "DevOps",
+        "titre": "conception",
         "sousSections": [
             {
                 "sousTitre": "Introduction au DevOps",
-                "contenuMarkdown": "md/cours-devops.md"
+                "contenuMarkdown": "src/md/conception.md"
             },
             {
                 "sousTitre": "Déploiement et Maintenance",
-                "contenu": "Bonnes pratiques pour le déploiement et la maintenance des applications web."
+                "contenu": "Application de reconnaissance à la pollution atmosphérique notamment l'iodure d'argent technique utilisée par le gouvernement pour réguler le climat couramment appelé ensemencement des nuages où Chemtrail."
             }
         ]
     },
     {
-        "titre": "Front-End",
+        "titre": "Mission",
         "sousSections": [
             {
-                "sousTitre": "HTML",
-                "contenuMarkdown": "md/cours-frontend-html.md"
+                "sousTitre": "html",
+                "contenuMarkdown": "src/md/mission.md"
             },
             {
                 "sousTitre": "CSS",
@@ -116,42 +116,9 @@
 
 
         ]
-    },    
+    },        
     {
-        "titre": "Modèle",
-        "sousSections": [
-        {
-        "contenu": "techniques et methodes avancées pour construire des modèles d'IA...",
-        "contenuMarkdown": "md/howto.md"
-    }]
-    },  
-    {
-        "titre": "Projets",
-        "sousSections": [
-            {
-                "sousTitre": "Présentation Structurée",
-                "contenu": "Organiser le contenu du cours de manière logique et intuitive."
-            },
-            {
-                "sousTitre": "Ateliers Fullstack",
-                "contenu": "Création de projets intégrant front-end et back-end."
-            },
-            {
-                "sousTitre": "Utilisation de React, Node.js, et Bases de Données dans des Projets Concrets",
-                "contenu": "..."
-            },
-            {
-                "sousTitre": "Projets guidés par NeoFS",
-                "contenu": "Utilisation de l'IA pour optimiser et générer des éléments de code dans des projets réels."
-            },
-            {
-                "sousTitre": "Génération Dynamique du Sommaire",
-                "contenuMarkdown": "md/generation_dynamique_du_sommaire.md"
-            }
-        ]
-    },      
-    {
-        "titre": "Ressources",
+        "titre": "knowledge",
         "sousSections": [
             {
                 "sousTitre": "Récapitulatif des Technologies et Concepts Clés",
@@ -164,11 +131,11 @@
         ]
     },
     {
-        "titre": "Conseils",
+        "titre": "G7",
         "sousSections": [
             {
-                "sousTitre": "Interactivité avec l'IA",
-                "contenu": "Intégrer des démonstrations interactives où NeoFS génère des exemples de code en temps réel."
+                "sousTitre": "membres du regroupement politique",
+                "contenu": "premier ministre Marion Moriani président de la commission Emmanuel Macron, PIB président de l'international banque, président de la banque of Africa, question d'intégration de l'Ukraine à la veille de l'élection européenne en date du 9 juin 2024."
             },
             {
                 "sousTitre": "Projets Pratiques",
