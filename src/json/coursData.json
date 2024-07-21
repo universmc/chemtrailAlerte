@@ -4,7 +4,7 @@
     "sousSections": [
         {
             "sousTitre": "Introduction",
-            "contenu": "Présentation de l'état d'ugence climatique."
+            "contenu": "Application mobile et web pour la détection et l'identification de la pollution atmosphérique par les chemtrails"
         },
         {
             "sousTitre": "phase1",
@@ -13,110 +13,22 @@
     ]
     },
     {
-        "titre": "conception",
+        "titre": "Détection en temps réel",
         "sousSections": [
             {
-                "sousTitre": "Introduction au DevOps",
+                "sousTitre": "Déploiement et Maintenance",
+                "contenu": "Utilisation du GPS du smartphone et des données satellites en temps réel pour localiser l'utilisateur et obtenir des images de la couverture nuageuse."
+            },
+            {
+                "sousTitre": "Détection en temps réel",
                 "contenuMarkdown": "src/md/conception.md"
             },
             {
-                "sousTitre": "Déploiement et Maintenance",
-                "contenu": "Application de reconnaissance à la pollution atmosphérique notamment l'iodure d'argent technique utilisée par le gouvernement pour réguler le climat couramment appelé ensemencement des nuages où Chemtrail."
-            }
-        ]
-    },
-    {
-        "titre": "Mission",
-        "sousSections": [
-            {
-                "sousTitre": "html",
+                "sousTitre": "Détection en temps réel",
                 "contenuMarkdown": "src/md/mission.md"
-            },
-            {
-                "sousTitre": "CSS",
-                "contenuMarkdown": "md/cours-frontend-css.md"
-            },
-            {
-                "sousTitre": "SASS",
-                "contenuMarkdown": "md/cours-frontend-sass.md"
-            },
-            {
-                "sousTitre": "ASCII Art en Web Design",
-                "contenuMarkdown": "md/cours-frontend-ascii.md"
-            },
-            {
-                "sousTitre": "SVG en Tensors",
-                "contenuMarkdown": "md/cours-frontend-svg.md"
-            },
-            {
-                "sousTitre": "JavaScript",
-                "contenuMarkdown": "md/cours-frontend-javascript.md"
-            },
-            {
-                "sousTitre": "React",
-                "contenuMarkdown": "md/cours-frontend-react.md"
             }
         ]
     },
-    {
-        "titre": "Back-End",
-        "sousSections": [
-            {
-                "sousTitre": "PHP",
-                "contenuMarkdown": "md/cours-backend-php.md"
-            },
-            {
-                "sousTitre": "SQL",
-                "contenuMarkdown": "md/cours-backend-sql.md"
-            },
-            {
-                "sousTitre": "nodejs",
-                "contenuMarkdown": "md/cours-backend-sql.md"
-            },
-            {
-                "sousTitre": "Python",
-                "contenu": "Scripting, analyse de données et intégration avec des frameworks web."
-            },
-            {
-                "sousTitre": "Node.js et Swagger",
-                "contenuMarkdown": "md/swagger.md"
-            },
-            {
-                "sousTitre": "JSON",
-                "contenuMarkdown": "md/cours-backend-json.md"
-            }
-        ]
-    },
-    {
-        "titre": "IA",
-        "sousSections": [
-            {
-                "sousTitre": "Introduction à l'IA",
-                "contenu": "Présentation de l'agent IA Codex GPT pour le développement fullstack."
-            },            {
-                "sousTitre": "Développement Assisté par IA",
-                "contenu": "Comment NeoFS peut aider dans la génération de code front-end et back-end."
-            },
-            {
-                "sousTitre": "IA prompt",
-                "contenuMarkdown": "md/cours-ia-prompt.md"
-            },
-            {
-                "sousTitre": "lib GPT",
-                "contenuMarkdown": "md/cours-ia-gpt.md"
-            },
-            {
-                "sousTitre": "lib pytorch",
-                "contenuMarkdown": "md/cours-ia-pytorch.md"
-            },
-            {
-                "sousTitre": "lib Tensorflow",
-                "contenuMarkdown": "md/cours-ia-tensorflow.md"
-            }
-
-
-        ]
-    },        
     {
         "titre": "knowledge",
         "sousSections": [

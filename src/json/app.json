@@ -1,0 +1,88 @@
+[       
+    {
+    "titre": "ChemtrailAlert",
+    "sousSections": [
+        {
+            "sousTitre": "Application mobile et web pour la détection et l'identification de la pollution atmosphérique par les chemtrailsn",
+            "contenu": "Présentation de l'état d'ugence climatique."
+        },
+        {
+            "sousTitre": "phase1",
+            "contenuMarkdown": "src/md/intro.md"
+        }
+    ]
+    },
+    {
+        "titre": "Fonctionnnalité",
+        "sousSections": [
+          {
+            "sousTitre": "Détection en temps réel",
+            "contenu": "Utilisation du GPS du smartphone et des données satellites en temps réel pour localiser l'utilisateur et obtenir des images de la couverture nuageuse."
+          },
+            {
+                "sousTitre": "phase1",
+                "contenuMarkdown": "src/md/intro.md"
+            },
+            {
+              "sousTitre": "Détection en temps réel",
+              "contenu": "Utilisation du GPS du smartphone et des données satellites en temps réel pour localiser l'utilisateur et obtenir des images de la couverture nuageuse."
+            },
+            {
+              "sousTitre": "Reconnaissance d'avions",
+              "contenu": "Utilisation de l'IA pour identifier les avions dans les images satellites."
+            },
+            {
+              "sousTitre": "Analyse des traînées",
+              "contenu": "Analyse des traînées des avions pour détecter la présence de traces de produits chimiques, tels que l'iodure d'argent."
+            },
+            {
+              "sousTitre": "Horodatage et géolocalisation",
+              "contenu": "Horodatage de chaque observation avec un timestamp Unix ou TimeCode.json et association de chaque observation à une adresse IP et à des coordonnées satellites (ip/sat)."
+            },
+            {
+              "sousTitre": "Alertes",
+              "contenu": "Déclenchement d'alertes lorsqu'une activité suspecte de chemtrails est détectée."
+            },
+            {
+              "sousTitre": "Base de données",
+              "contenu": "Stockage des données d'observation dans une base de données locale ou distante."
+            },
+            {
+              "sousTitre": "Visualisation des données",
+              "contenu": "Affichage des données d'observation sur une carte interactive."
+            },
+            {
+              "sousTitre": "Partage de données",
+              "contenu": "Possibilité pour les utilisateurs de partager leurs observations avec d'autres utilisateurs ou avec des organisations de recherche."
+            },
+            {
+              "sousTitre": "Fonctionnalités éducatives",
+              "contenu": "Inclusion d'informations sur les chemtrails, leurs dangers potentiels et les actions que les individus peuvent entreprendre."
+            }
+        ]
+    },
+    {
+      "titre": "dev",
+      "sousSections": [
+          {
+              "sousTitre": "Application mobile et web pour la détection et l'identification de la pollution atmosphérique par les chemtrailsn",
+              "contenu": "Présentation de l'état d'ugence climatique."
+          },
+          {
+              "sousTitre": "phase1",
+              "contenuMarkdown": "src/md/intro.md"
+          },
+          {
+            "sousTitre": "phase1",
+            "cotenu":"Développement nécessitant une expertise en IA, en traitement d'images et en géolocalisation."
+        },
+        {
+          "sousTitre": "phase1",
+          "cotenu":"Accès aux données satellites en temps réel pouvant nécessiter un abonnement ou une collaboration avec des fournisseurs de données."
+      },
+      {
+        "sousTitre": "phase1",
+      "cotenu":"Respect des réglementations en matière de protection de la vie privée lors de la collecte et du partage de données d'observation."
+    }
+  ]}
+]
